@@ -1,0 +1,57 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}</title>
+        <meta name="description" content="{{site.description}}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="/site.webmanifest">
+		<link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/animate.min.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/slick.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/themify-icons.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/default.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/style.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/responsive.css">
+    </head>
+    <body>
+
+        <!-- loading  -->
+        <div id="loading">
+            <div id="loading-center">
+                <div id="loading-center-absolute">
+                    <div class="object" id="object_one"></div>
+                    <div class="object" id="object_two" style="left:20px;"></div>
+                    <div class="object" id="object_three" style="left:40px;"></div>
+                    <div class="object" id="object_four" style="left:60px;"></div>
+                    <div class="object" id="object_five" style="left:80px;"></div>
+                </div>
+            </div>
+        </div>
+        <!-- loading end -->
+
+        {% include header.html %}
+        <main>
+          {{content}}
+        </main>
+        {% include footer.html %}
+		<!-- JS here -->
+        <script src="{{relative_url}}/assets/js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="{{relative_url}}/assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="{{relative_url}}/assets/js/popper.min.js"></script>
+        <script src="{{relative_url}}/assets/js/bootstrap.min.js"></script>
+        <script src="{{relative_url}}/assets/js/one-page-nav-min.js"></script>
+        <script src="{{relative_url}}/assets/js/slick.min.js"></script>
+        <script src="{{relative_url}}/assets/js/ajax-form.js"></script>
+        <script src="{{relative_url}}/assets/js/wow.min.js"></script>
+        <script src="{{relative_url}}/assets/js/jquery.scrollUp.min.js"></script>
+        <script src="{{relative_url}}/assets/js/imagesloaded.pkgd.min.js"></script>
+        <script src="{{relative_url}}/assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="{{relative_url}}/assets/js/plugins.js"></script>
+        <script src="{{relative_url}}/assets/js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,69 @@
+<!-- contact-area -->
+<section id="contact" class="contact-area gray-bg pt-120 pb-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2 col-md-10 offset-md-1 text-center">
+                <div class="section-title mb-55">
+                    <h1>Contact Us</h1>
+                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and pain was born
+                        and I will give you a complete account of the system.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="contact-form mb-30 wow fadeInLeft" data-wow-delay=".3s">
+                    {% include form.html %}
+<!--                     <form id="contact-form" action="mail.php" method="POST">
+
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <input type="text" name="name" placeholder="Name">
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="email" name="email" placeholder="Email">
+                            </div>
+                        </div>
+                        <input type="text" name="subject" placeholder="Subject">
+                        <textarea name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
+                        <button class="btn contact-btn" type="submit">send message</button>
+                    </form>
+                    <p class="ajax-response"></p> -->
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="contact-info pl-40 wow fadeInRight" data-wow-delay=".3s">
+                    <div class="info-title mb-30">
+                        <h3>You’ve any question? feel free to contact with us.</h3>
+                    </div>
+                    <div class="single-info mb-30">
+                        <h5>Call us for imiditate support on this number</h5>
+                        <span>+0123456789</span>
+                    </div>
+                    <div class="single-info mb-30">
+                        <h5>Send us email for any kind of inquiry</h5>
+                        <span>info@admin.com</span>
+                    </div>
+                    <div class="contact-icon">
+                        {% if site.facebook_url %}
+                          <a target="__blank" href="{{site.facebook_url}}"><i class="ti-facebook"></i></a>
+                        {% endif %}
+                        {% if site.twitter_url %}
+                          <a target="__blank" href="{{site.twitter_url}}"><i class="ti-twitter-alt"></i></a>
+                        {% endif %}
+                        {% if site.pinterest_url %}
+                         <a target="__blank" href="{{site.pinterest_url}}"><i class="ti-pinterest"></i></a>
+                        {% endif %}
+                        {% if site.instagram_url %}
+                        <a target="__blank" href="{{site.instagram_url}}"><i class="ti-instagram"></i></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- contact-area-end -->
+
+
+
