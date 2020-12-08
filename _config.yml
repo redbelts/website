@@ -2,7 +2,7 @@
 title: Red Belts
 email: contact@redbelts.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Red Belts 
+  Red Belts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://redbelts.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -14,6 +14,6 @@ site_logo: "/assets/img/logo/logo.png"
 copyright_text: "<p>&copy; Copyright 2020 Vinex | All right reserved.</p>"
 
 facebook_url: "https://facebook.com/rubelhossain.31105"
-twitter_url: "https://twitter.com/rubel8525"
+twitter_url: "https://twitter.com/RedBelts_"
 pinterest_url: "https://pinterest.com/rubel8525"
 instagram_url: "https://instagram.com/rubel8525"
