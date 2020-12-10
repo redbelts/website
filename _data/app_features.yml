@@ -1,11 +1,11 @@
-- name: Create Account
+- name: Third-Party Risk Assessment
   icon: /assets/images/icon/002-authorization.png
   description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
 
-- name: Update Profile
+- name: Penetration Testing
   icon: /assets/images/icon/003-man.png
   description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
 
-- name: Explore Fun
+- name: Virtual CISO
   icon: /assets/images/icon/001-forest.png
-  description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
+  description: Bring both strategic and operational leadership on security to your company.
