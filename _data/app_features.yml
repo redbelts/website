@@ -1,0 +1,11 @@
+- name: Create Account
+  icon: /assets/images/icon/002-authorization.png
+  description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
+
+- name: Update Profile
+  icon: /assets/images/icon/003-man.png
+  description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
+
+- name: Explore Fun
+  icon: /assets/images/icon/001-forest.png
+  description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
