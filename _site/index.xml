@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/index.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-11T00:09:26+11:00</updated><id>http://localhost:4000/index.xml</id><title type="html">Papp - Premium Jekyll Theme</title><subtitle>Papp Responsive Static Jekyll Theme For Blogging.</subtitle><entry><title type="html">The Next Big Thing in Professional Design</title><link href="http://localhost:4000/jekyll/wordpress/2019/12/15/the-next-big-thing-in-professional-design.html" rel="alternate" type="text/html" title="The Next Big Thing in Professional Design" /><published>2019-12-15T15:59:37+11:00</published><updated>2019-12-15T15:59:37+11:00</updated><id>http://localhost:4000/jekyll/wordpress/2019/12/15/the-next-big-thing-in-professional-design</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/2019/12/15/the-next-big-thing-in-professional-design.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="Health" /><category term="Medical" /><category term="Travel" /><summary type="html">A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis.</summary></entry><entry><title type="html">This Week’s Top Stories About Hardwork</title><link href="http://localhost:4000/jekyll/test/2019/09/24/this-weeks-top-stories-about-hardwork.html" rel="alternate" type="text/html" title="This Week’s Top Stories About Hardwork" /><published>2019-09-24T14:59:37+10:00</published><updated>2019-09-24T14:59:37+10:00</updated><id>http://localhost:4000/jekyll/test/2019/09/24/this-weeks-top-stories-about-hardwork</id><content type="html" xml:base="http://localhost:4000/jekyll/test/2019/09/24/this-weeks-top-stories-about-hardwork.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="test" /><category term="design" /><category term="css" /><summary type="html">Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.</summary></entry><entry><title type="html">Ten (10) Terrible Ways to Spend Your Money</title><link href="http://localhost:4000/jekyll/wordpress/2019/08/12/ten-10-terrible-ways-to-spend-your-money.html" rel="alternate" type="text/html" title="Ten (10) Terrible Ways to Spend Your Money" /><published>2019-08-12T14:59:37+10:00</published><updated>2019-08-12T14:59:37+10:00</updated><id>http://localhost:4000/jekyll/wordpress/2019/08/12/ten-10-terrible-ways-to-spend-your-money</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/2019/08/12/ten-10-terrible-ways-to-spend-your-money.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+      &lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="Health" /><category term="Medical" /><category term="Travel" /><summary type="html">Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst.</summary></entry><entry><title type="html">Should You Be Using JQuery 3.4?</title><link href="http://localhost:4000/jekyll/wordpress/2019/07/19/should-you-be-using-jquery-3-4.html" rel="alternate" type="text/html" title="Should You Be Using JQuery 3.4?" /><published>2019-07-19T14:59:37+10:00</published><updated>2019-07-19T14:59:37+10:00</updated><id>http://localhost:4000/jekyll/wordpress/2019/07/19/should-you-be-using-jquery-3-4</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/2019/07/19/should-you-be-using-jquery-3-4.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+      &lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="jQuery" /><category term="Medical" /><category term="Travel" /><summary type="html">Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam.Id a mi nulla laoreet aenean, imperdiet et pede imperdiet.</summary></entry><entry><title type="html">Create consistent products and brand messages</title><link href="http://localhost:4000/jekyll/wordpress/2019/06/27/create-consistent-products-and-brand-messages.html" rel="alternate" type="text/html" title="Create consistent products and brand messages" /><published>2019-06-27T14:59:37+10:00</published><updated>2019-06-27T14:59:37+10:00</updated><id>http://localhost:4000/jekyll/wordpress/2019/06/27/create-consistent-products-and-brand-messages</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/2019/06/27/create-consistent-products-and-brand-messages.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+      &lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="Health" /><category term="Medical" /><category term="Travel" /><summary type="html">At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus</summary></entry><entry><title type="html">Why the Biggest Myths About Technology May Actually Be Right</title><link href="http://localhost:4000/jekyll/wordpress/ghost/2019/05/28/why-the-biggest-myths-about-technology-may-actually-be-right.html" rel="alternate" type="text/html" title="Why the Biggest Myths About Technology May Actually Be Right" /><published>2019-05-28T14:59:37+10:00</published><updated>2019-05-28T14:59:37+10:00</updated><id>http://localhost:4000/jekyll/wordpress/ghost/2019/05/28/why-the-biggest-myths-about-technology-may-actually-be-right</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/ghost/2019/05/28/why-the-biggest-myths-about-technology-may-actually-be-right.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+      &lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="Ghost" /><category term="Health" /><category term="Medical" /><category term="Travel" /><summary type="html">Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae.</summary></entry><entry><title type="html">Design Idea Explained in Fewer than 140 Characters</title><link href="http://localhost:4000/jekyll/wordpress/2019/03/17/design-idea-explained-in-fewer-than-140-characters.html" rel="alternate" type="text/html" title="Design Idea Explained in Fewer than 140 Characters" /><published>2019-03-17T15:59:37+11:00</published><updated>2019-03-17T15:59:37+11:00</updated><id>http://localhost:4000/jekyll/wordpress/2019/03/17/design-idea-explained-in-fewer-than-140-characters</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/2019/03/17/design-idea-explained-in-fewer-than-140-characters.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+      &lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="Health" /><category term="Medical" /><category term="Travel" /><summary type="html">Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi.</summary></entry><entry><title type="html">Will Design Skill Ever Rule the World?</title><link href="http://localhost:4000/jekyll/wordpress/2019/01/01/will-design-skill-ever-rule-the-world.html" rel="alternate" type="text/html" title="Will Design Skill Ever Rule the World?" /><published>2019-01-01T15:59:37+11:00</published><updated>2019-01-01T15:59:37+11:00</updated><id>http://localhost:4000/jekyll/wordpress/2019/01/01/will-design-skill-ever-rule-the-world</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/2019/01/01/will-design-skill-ever-rule-the-world.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+   &lt;p&gt;
+Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="Health" /><category term="Medical" /><category term="Travel" /><summary type="html">Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum</summary></entry><entry><title type="html">9 Ways to Design for Human Error</title><link href="http://localhost:4000/jekyll/wordpress/2019/01/01/9-ways-to-design-for-human-error.html" rel="alternate" type="text/html" title="9 Ways to Design for Human Error" /><published>2019-01-01T15:59:37+11:00</published><updated>2019-01-01T15:59:37+11:00</updated><id>http://localhost:4000/jekyll/wordpress/2019/01/01/9-ways-to-design-for-human-error</id><content type="html" xml:base="http://localhost:4000/jekyll/wordpress/2019/01/01/9-ways-to-design-for-human-error.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+      &lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="WordPress" /><category term="themeix" /><summary type="html">Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam,</summary></entry><entry><title type="html">How to Code a “Click to Tweet” Button</title><link href="http://localhost:4000/jekyll/2019/01/01/how-to-code-a-click-to-tweet-button.html" rel="alternate" type="text/html" title="How to Code a “Click to Tweet” Button" /><published>2019-01-01T15:59:37+11:00</published><updated>2019-01-01T15:59:37+11:00</updated><id>http://localhost:4000/jekyll/2019/01/01/how-to-code-a-click-to-tweet-button</id><content type="html" xml:base="http://localhost:4000/jekyll/2019/01/01/how-to-code-a-click-to-tweet-button.html">&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor, egestas aenean. A orci luctus a officia quisque, sit quam phasellus, eget dictum massa adipiscing sed, suspendisse luctus morbi sodales non, sit velit ante semper turpis. Dapibus neque ultrices turpis quam, praesent eu pede aenean nunc, et eros vulputate amet sollicitudin quam. Id a mi nulla laoreet aenean, imperdiet et pede imperdiet. Pellentesque eget ante eget eros in suscipit. Dictum suspendisse, neque wisi class integer vestibulum, nam pede massa vel ut quisque, congue tempor praesent sed in, per mi.&lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/blog-img-2.jpg&quot;  alt=&quot;blog img&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Standard Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At turpis ut eros ipsum sed, dis ea suscipit. Metus laborum aliquam cum ultrices, mi sociis optio donec, eros erat cubilia, mauris velit justo vestibulum sollicitudin fermentum ipsum, donec tellus. Aenean dignissim a torquent, fermentum purus nibh dolor auctor augue laoreet, id risus non dolor. Varius at dui laoreet justo sint, eget nascetur vestibulum neque wisi. Justo porttitor neque, dapibus lectus. Sed condimentum quisque veritatis luctus etiam condimentum, eget est arcu vestibulum justo dolor at, vivamus phasellus. Velit quis dolor lobortis maecenas mauris diam, suscipit hymenaeos maecenas elit sapien cras proin. Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.&lt;/p&gt;
+&lt;p&gt;Tristique laoreet nulla justo cras a, commodo congue morbi id nibh ipsum. Ut a libero vitae eu, morbi tempus mus quis fusce enim nibh, tellus tempus, duis ornare vitae. Dapibus cursus sit molestie curabitur faucibus, lectus sit montes eget arcu, illo suspendisse proin eget vestibulu&lt;/p&gt;
+&lt;blockquote&gt;
+      &lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum, tristique et luctus interdum orci vestibulum dolor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Posuere praesent metus donec optio pede, nam eleifend. Quis habitasse dui, dictumst aliquam enim odio nec commodo. Tortor urna luctus fusce, nunc quis etiam elementum.&lt;/p&gt;
+&lt;ul&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+   &lt;li&gt;Suscipit hymenaeos maecenas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img2.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class=&quot;d-flex justify-content-between bd-highlight&quot;&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img3.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;p-2 bd-highlight&quot;&gt;&lt;img src=&quot;/assets/images/gallery-img4.jpg&quot;  alt=&quot;blog img&quot;&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Gallery&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h6&gt;Syntax Highlighter Example&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;div class=&quot;single-highlight&quot;&gt;
+      &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}&lt;/code&gt;&lt;/pre&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h6&gt;Full Width Image Example&lt;/h6&gt;
+&lt;figure class=&quot;full-width&quot;&gt;
+   &lt;img class=&quot;full-width-img&quot; src=&quot;/assets/images/full-image.jpg&quot; alt=&quot;full width image&quot;&gt;
+   &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Full Width Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;ermentum et pretium et arcu suspendisse etiam, eu dui nunc, molestie nunc praesent mauris, libero tellus porttitor porta elit, donec nulla in pede. Id nunc. Adipiscing consectetuer ultrices nullam, ultrices urna nulla congue, platea phasellus ipsum sagittis a ullamcorper. Nihil nullam in pellentesque. Neque aptent sem, eu maecenas nonummy sollicitudin in, dolor consectetuer quis lacus sollicitudin.&lt;/p&gt;
+&lt;p&gt;Dapibus neque et suspendisse, wisi mollit magna dapibus mus, pretium dui. Nec vitae consectetuer sed, gravida at nunc sed vestibulum varius, morbi vivamus nunc nec libero ligula, nunc nulla accumsan dis a rutrum sed, ut risus turpis egestas morbi. Diam arcu ante rutrum, feugiat sit. Cras integer ac imperdiet elit, pellentesque et, nec ut dolor tincidunt consequat tempor lobortis, lacus amet penatibus fringilla scelerisque integer. Vivamus iste, convallis &lt;/p&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+   &lt;img src=&quot;/assets/images/category-banner-img.jpg&quot; alt=&quot;width image&quot;&gt;
+&lt;/figure&gt;
+&lt;div class=&quot;mb-5&quot;&gt;
+   &lt;p&gt;Nulla fusce arcu sit lorem at, quam mauris, odio wisi. Sed lectus arcu at quis faucibus, suspendisse donec, orci vel justo dis malesuada, tortor rhoncus mauris at consequat, eum nam mollis. Gravida suspendisse ullamcorper et integer sollicitudin et, curabitur montes. Non non nulla, sed ut. Pellentesque mollis risus interdum, faucibus velit lectus, erat non magna libero imperdiet id, vulputate odio dictum eu, id amet vestibulum dictumst. Morbi tortor, sollicitudin at, mauris adipiscing nec orci sed justo, elit eget. Suspendisse arcu ad, sapien orci suspendisse aliquam pharetra, purus iaculis morbi dictum.&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+   &lt;p&gt;In rhoncus nullam nulla lorem non massa, neque turpis, tellus euismod torquent nec erat aliquam, est ligula sagittis ultrices auctor nec, morbi eget in erat id amet. Proident aliquet consequat adipiscing, hendrerit&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="Health" /><category term="Medical" /><category term="Travel" /><summary type="html">Netus conubia eu vitae sit nulla posuere, orci ultricies scelerisque ac a, quisque ut litora ante vitae quis, nec laboris sollicitudin, a quisque ut egestas est. Justo felis tellus.</summary></entry></feed>
