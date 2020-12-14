@@ -1,27 +1,23 @@
-###################################################################
-# Welcome to Paap Jekyll Theme
-# Developed by https://themeix.com
-# Version : 1.0.0
-###################################################################
-title: Red Belts PTY LTD
+
+title: Red Red Belts PTY LTD
 email: admin@redbelts.com.com
 description: >-
   Red Belts, your trusted cyber partner.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://redbelts.com.au" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: ""
+url: "https://redbelts.com.au"
 
 # Site Settings
-twitter_username: jekyllrb
+twitter_username: 
 logo_url: /assets/images/logo.png
 sticky_logo_url: /assets/images/stickey-logo.png
 cover_image: /assets/images/blog-img-13
 mailclimp_url: https://redbelts.us7.list-manage.com/subscribe?u=c18e62be466fa59bca4ee263
-dribble_url: https://dribble.com/themeix
-facebook_url: https://facebook.com/themeix
-instagram_url: https://instagram.com/themeix
-twitter_url: https://twitter.com/themeix
-linkedin_url: https://linkedin.com/themeix
-pinterest_url: https://pinterest.com/themeix
+dribble_url:
+facebook_url:
+instagram_url:
+twitter_url: https://twitter.com/RedBelts_
+linkedin_url:
+pinterest_url:
 
 # Build settings
 markdown: kramdown
