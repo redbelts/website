@@ -3,10 +3,10 @@
 # Developed by https://themeix.com
 # Version : 1.0.0
 ###################################################################
-title: Papp - Premium Jekyll Theme
-email: themeix@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Papp Responsive Static Jekyll Theme For Blogging.
+title: Red Belts PTY LTD
+email: admin@redbelts.com.com
+description: >-
+  Red Belts, your trusted cyber partner.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://redbelts.com.au" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -15,7 +15,7 @@ twitter_username: jekyllrb
 logo_url: /assets/images/logo.png
 sticky_logo_url: /assets/images/stickey-logo.png
 cover_image: /assets/images/blog-img-13
-mailclimp_url: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
+mailclimp_url: 'https://redbelts.us7.list-manage.com/subscribe/post?u=c18e62be466fa59bca4ee263e&amp;id=d552c54a04'
 dribble_url: https://dribble.com/themeix
 facebook_url: https://facebook.com/themeix
 instagram_url: https://instagram.com/themeix
@@ -93,12 +93,3 @@ feed:
   collections:
     posts:
       path: "/index.xml"
-
-
-###################################################################
-# If you need any help please contact our support portal
-# https://support.themeix.com
-# or
-# Email us at themeix@gmail.com
-# We would happpy to assist you!!
-###################################################################
