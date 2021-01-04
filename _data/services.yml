@@ -1,11 +1,11 @@
 - name: Third-Party Risk Assessment
   icon: /assets/images/icon/pie-chart.png
-  description: Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc
+  description: A proprietary assessment assisting to gain an understanding of organisation’s cyber threat and defence levels in greater detail.
 
 - name: Penetration Testing
   icon: /assets/images/icon/rocket.png
-  description: Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis
+  description: Identifying known and unknown vulnerabilities in external and internal environments.
 
 - name: Virtual CISO
   icon: /assets/images/icon/clock.png
-  description: Titor lacus luctus accumsan tortor posuere ac ut consequat semper viverra nam libero justo laoreet.
+  description: A tiered offering designed to provide top-tier security experts and their expertise available to all organisations. 

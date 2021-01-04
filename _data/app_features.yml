@@ -1,12 +1,12 @@
 
-- name: Third-Party Risk Assessment
+- name: Risk understanding
   icon: /assets/images/icon/002-authorization.png
-  description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
+  description: Organisations facing an incomplete understanding of Cyber threat and defence postures.
 
-- name: Penetration Testing
+- name: Advanced Threats
   icon: /assets/images/icon/003-man.png
-  description: Easy to find content ipsum dolor sit consectet aadop adipisicing elit sed do eiusod raryly ididunt.
+  description: A continuing, ever developing set of unknown Tactics, Techniques, and Procedures (TTPs).
 
-- name: Virtual CISO
+- name: Adaptive Security
   icon: /assets/images/icon/001-forest.png
-  description: Bring both strategic and operational leadership on security to your company.
+  description: Cyber Security business requirements, without accompanying dedicated budget/personal.
