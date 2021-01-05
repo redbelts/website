@@ -1,12 +1,12 @@
 
 - name: Risk understanding
-  icon: /assets/images/icon/002-authorization.png
+  icon: /assets/images/icon/risk.png
   description: Organisations facing an incomplete understanding of Cyber threat and defence postures.
 
 - name: Advanced Threats
-  icon: /assets/images/icon/003-man.png
+  icon: /assets/images/icon/plane.png
   description: A continuing, ever developing set of unknown Tactics, Techniques, and Procedures (TTPs).
 
 - name: Adaptive Security
-  icon: /assets/images/icon/001-forest.png
+  icon: /assets/images/icon/agile.png
   description: Cyber Security business requirements, without accompanying dedicated budget/personal.
