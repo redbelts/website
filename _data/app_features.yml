@@ -1,5 +1,5 @@
 
-- name: Risk understanding
+- name: Risk-Unawareness
   icon: /assets/images/icon/risk.png
   description: Organisations facing an incomplete understanding of Cyber threat and defence postures.
 
@@ -7,6 +7,6 @@
   icon: /assets/images/icon/plane.png
   description: A continuing, ever developing set of unknown Tactics, Techniques, and Procedures (TTPs).
 
-- name: Adaptive Security
+- name: Inefficient Security
   icon: /assets/images/icon/agile.png
   description: Cyber Security business requirements, without accompanying dedicated budget/personal.
