@@ -1,11 +1,19 @@
-<!-- Apps Feature Section Start -->	
+<!-- Apps Feature Section Start -->
       <div class="themeix-feature-section pt-150">
       <div class="container">
-         <div class="row">
+        <div class="row">
+
+           <div class="col-md-12">
+              <div class="sec-title p-b-50">
+                 <h2>Exposures</h2>
+                 <!--<p>Redbelts specialise in providing the below solutions to these exposures.</p> -->
+              </div>
+           </div>
+
             {% for feature in site.data.app_features %}
                <div class="col-md-4 col-sm-4">
                   <div class="themeix-feature-item">
-                     <div class="themeix-feature-item-icon">	
+                     <div class="themeix-feature-item-icon">
                         <img src="{{feature.icon}}" alt="{{feature.name}}"/>
                      </div>
                      <h2>{{feature.name}}</h2>
