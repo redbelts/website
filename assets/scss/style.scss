@@ -548,8 +548,8 @@
 	margin: 0 auto;
 	line-height:1.4;	
 	transition: $transition2;
-	border: 4px solid #f3fdf7;
-	background: #0cb1f6;
+	border: 4px solid #feeaf5;
+	background: #feeaf5;
 	text-align: center;
 	padding: 5px;
 }
@@ -1787,12 +1787,12 @@ blockquote::before {
 }
 .service-sec .inner-box {
 	&:nth-child(2) .service-icon {
-		background: #fa319a none repeat scroll 0 0;
+		background: #feeaf5 none repeat scroll 0 0;
 		border-color: #feeaf5;
 	}
 	&:nth-child(3) .service-icon {
-		background: #ffb66b none repeat scroll 0 0;
-		border-color: #f3fced;
+		background: #feeaf5 none repeat scroll 0 0;
+		border-color: #feeaf5;
 	}
 	&:nth-child(4) .service-icon {
 		background: #afd056 none repeat scroll 0 0;
@@ -1804,7 +1804,7 @@ blockquote::before {
 	}
 	&:nth-child(6) .service-icon {
 		background: #8bdf53 none repeat scroll 0 0;
-		border-color: #f3fced;
+		border-color: #feeaf5;
 	}
 }
 .btn.price_btn {
