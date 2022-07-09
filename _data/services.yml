@@ -1,6 +1,6 @@
 - name: Third-Party Risk Assessment
   icon: /assets/images/icon/Third-Party-Risk.png
-  description: A proprietary assessment assisting to gain an understanding of organisation’s cyber threat and defence levels in greater detail.
+  description: Securing organisations by providing risk assessments on vendors and supply chain partners, providing insight and meaningful remediation actions.
 
 - name: Penetration Testing
   icon: /assets/images/icon/Pentest.png

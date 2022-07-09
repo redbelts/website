@@ -1,7 +1,7 @@
 
 - name: Risk-Unawareness
   icon: /assets/images/icon/risk.png
-  description: Organisations facing an incomplete understanding of Cyber threat and defence postures.
+  description: Organisations facing an incomplete understanding of the risks their vendors and supply chain partners bring to their organisation.
 
 - name: Advanced Threats
   icon: /assets/images/icon/plane.png
